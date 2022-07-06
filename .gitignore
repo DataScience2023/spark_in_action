@@ -24,8 +24,6 @@
 hs_err_pid*
 
 ### Scala template
-*.class
-*.log
 
 ### Example user template template
 ### Example user template
